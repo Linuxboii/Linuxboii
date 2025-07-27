@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Student | Aspiring SOC Analyst | Digital Forensics Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=On+The+Hunt+For+Threads;SOC+Analysis+in+progress;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=On+The+Hunt+For+Threats;SOC+Analysis+in+progress;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ---
