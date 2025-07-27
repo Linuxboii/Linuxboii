@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Parzival</h1>
+<h1 align="center">Hi there 👋, I'm Sushanth</h1>
 <h3 align="center">Cybersecurity Student | Aspiring SOC Analyst | Digital Forensics Enthusiast</h3>
 
 <p align="center">
