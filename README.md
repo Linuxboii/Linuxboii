@@ -14,7 +14,6 @@
 - 💻 Learning tools like `Wireshark`, `Nmap`, `Kali Linux`, `Splunk`, `Burp Suite`, and `Python`
 - 🛡️ Building automation scripts for log analysis, packet sniffing & alert generation
 - 🏋️‍♂️ Discipline-driven: balancing hacking skills with gym and health
-- 📚 Committing **2 hours daily** to hands-on labs & CTFs
 
 ---
 
