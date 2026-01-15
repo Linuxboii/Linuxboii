@@ -1,63 +1,83 @@
-<h1 align="center">Hi there 👋, I'm Sushanth</h1>
-<h3 align="center">Cybersecurity Student | Aspiring SOC Analyst | Digital Forensics Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=On+The+Hunt+For+Threats;SOC+Analysis+in+progress;Always+learning+something+new" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Sushanth  
+### Cybersecurity Student • Aspiring SOC Analyst • Digital Forensics Enthusiast
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Threat+Hunting+in+Progress;SOC+Analysis+%7C+Incident+Response;Always+Learning.+Always+Improving." />
 
-### 🧠 About Me
-
-- 🕵️‍♂️ Pursuing a degree in **Cognitive Systems**
-- 🔐 Passionate about **SOC Analysis**, **Threat Hunting**, and **Incident Response**
-- 💻 Learning tools like `Wireshark`, `Nmap`, `Kali Linux`, `Splunk`, `Burp Suite`, and `Python`
-- 🛡️ Building automation scripts for log analysis, packet sniffing & alert generation
-- 🏋️‍♂️ Discipline-driven: balancing hacking skills with gym and health
+</div>
 
 ---
 
-### 🛠️ Tech & Tools
+## 🧠 About Me
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+- 🎓 Pursuing a degree in **Cognitive Systems**
+- 🔐 Strong interest in **SOC Operations**, **Threat Hunting**, and **Incident Response**
+- 🧪 Exploring **Digital Forensics** and real-world attack patterns
+- 🛡️ Building **automation scripts** for log analysis, packet inspection, and alerting
+- 🏋️‍♂️ Discipline-focused: cybersecurity, fitness, and consistency
+
+---
+
+## 🛠️ Tech & Tools
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
 ![Nmap](https://img.shields.io/badge/Nmap-0088cc?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6f00?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+</div>
 
 ---
 
-### 🚧 Featured Projects
+## 🚧 Featured Projects
 
-🛰️ **Network Scanner with Nmap & Python**
-
-> CLI-based scanner built with Python + `nmap` to detect live hosts, open ports, and generate HTML reports.
-
-🎣 **Phishing Site Detector**
-
-> Detects suspicious URLs using heuristics, DNS checks, and integrates with VirusTotal & PhishTank APIs.
+### 🛰️ Network Scanner (Python + Nmap)
+CLI-based network scanner to:
+- Identify live hosts  
+- Detect open ports  
+- Generate structured HTML reports  
 
 ---
 
-### 📊 GitHub Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Linuxboii&show_icons=true&theme=radical"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Linuxboii&theme=radical"
-/>
+### 🎣 Phishing Site Detector
+Security tool that:
+- Flags suspicious URLs using heuristics  
+- Performs DNS and reputation checks  
+- Integrates **VirusTotal** & **PhishTank** APIs  
 
 ---
 
-### 📡 Connect With Me
+## 📊 GitHub Activity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushanthkasturi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kbm.sushanth?igsh=bmZlMGhxZGQ5ZjM3)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Linuxboii&show_icons=true&hide_border=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Linuxboii&hide_border=true&theme=radical" />
+
+</div>
 
 ---
 
-> _"Stay ahead of threats. Stay curious. Stay ethical."_
+## 📡 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sushanthkasturi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kbm.sushanth)
+
+</div>
+
+---
+
+<div align="center">
+
+_Stay ahead of threats. Stay curious. Stay ethical._
+
+</div>
